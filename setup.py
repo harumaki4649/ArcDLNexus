@@ -9,9 +9,9 @@ DESCRIPTION = "ArcDLNexus: PythonからWayback Machineのアーカイブ（サ�
 NAME = 'ArcDLNexus'
 AUTHOR = 'ArcDLNexus'
 AUTHOR_EMAIL = 'support@disnana.com'
-URL = 'https://github.com/harumaki4649/PayNexus'
+URL = 'https://github.com/harumaki4649/ArcDLNexus'
 LICENSE = 'BSD 3-Clause'
-DOWNLOAD_URL = 'https://github.com/harumaki4649/PayNexus'
+DOWNLOAD_URL = 'https://github.com/harumaki4649/ArcDLNexus'
 VERSION = ArcDLNexus.__version__
 PYTHON_REQUIRES = ">=3.9"
 # Readmeのファイルパス指定
